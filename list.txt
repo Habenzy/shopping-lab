@@ -1,6 +1,3 @@
-bananas
-bread
-tea
-noodles
 cake
 candles
+icecream
