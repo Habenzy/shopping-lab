@@ -1,3 +1,6 @@
 bananas
 bread
 
+cake
+candles
+icecream
