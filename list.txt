@@ -1,12 +1,4 @@
-dynamite
-TNT
-
-horse
-cart
-Balloons
-Helium
-Gasoline
-
-Ice cream
-fireworks
-hotdogs
+cheese
+crakers
+jelly
+beans
