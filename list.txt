@@ -1,9 +1,5 @@
-bananas
-bread
-
-cake
-candles
-icecream
-Sparklers
 dynamite
 TNT
+
+horse
+cart
