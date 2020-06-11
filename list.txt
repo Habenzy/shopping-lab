@@ -6,3 +6,7 @@ cart
 Balloons
 Helium
 Gasoline
+
+Ice cream
+fireworks
+hotdogs
