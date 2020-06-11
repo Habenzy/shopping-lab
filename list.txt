@@ -7,3 +7,7 @@ icecream
 Sparklers
 dynamite
 TNT
+
+Balloons
+Helium
+Gasoline
