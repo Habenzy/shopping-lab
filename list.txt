@@ -4,3 +4,5 @@ bread
 cake
 candles
 icecream
+Sparklers
+dynamite
