@@ -1,6 +1,10 @@
 dynamite
 TNT
 
+brie
+cheddar
+asiago
+
 horse
 cart
 Balloons
