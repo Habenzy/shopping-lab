@@ -3,3 +3,6 @@ TNT
 
 horse
 cart
+Balloons
+Helium
+Gasoline
